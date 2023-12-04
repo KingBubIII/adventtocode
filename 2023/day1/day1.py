@@ -30,7 +30,7 @@ def get_fld(myinput):
 
     return get_fld(myinput[:span[1]])
 
-with open('2023\\day1_input.txt',"r") as myfile:
+with open('2023\\day1\\day1_input.txt',"r") as myfile:
     all_lines = myfile.readlines()
 
     total = 0

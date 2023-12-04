@@ -1,4 +1,4 @@
-with open('2023\\day2_input.txt',"r") as myfile:
+with open('2023\\day2\\day2_input.txt',"r") as myfile:
     all_lines = myfile.readlines()
 
     total_score = 0
